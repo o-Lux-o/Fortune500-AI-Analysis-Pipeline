@@ -1,0 +1,27 @@
+"""
+SOLICITUD DE ANÁLISIS: Adopción de IA en Fortune 500 (2020-2025)
+ESTADO: Urgente
+RECEPTOR: Desarrollador / Analista de Datos
+"""
+
+# TAREA 1: LIMPIEZA Y CONSISTENCIA
+# - Carga el dataset 'ai-adoption-fortune500-synthetic-dataset-2020-2025.csv'.
+# - Valida que no existan valores nulos en 'AI_ROI_Percent' cuando 'Uses_AI' es 'Yes'.
+# - Asegura que 'Revenue_USD' sea tratado como un float de alta precisión.
+
+# TAREA 2: MÉTRICAS DE NEGOCIO POR SECTOR
+# - Calcula el ROI promedio de IA agrupado por 'Industry' y 'Year'.
+# - Identifica los 3 sectores con mayor crecimiento en 'AI_Maturity_Score' entre 2020 y 2025.
+# - Genera un DataFrame con el Revenue total anual comparando empresas que usan IA vs. las que no.
+
+# TAREA 3: ANÁLISIS ESPECÍFICO DE CASOS DE USO
+# - Determina cuál es el 'Use_Case' más frecuente a nivel global.
+# - Calcula la correlación entre 'Employee_Size' y 'AI_Maturity_Score'.
+# - Filtra las empresas "Enterprise" que tienen un ROI superior al 30% y exporta el resultado a un CSV llamado 'high_roi_enterprise.csv'.
+
+# TAREA 4: VISUALIZACIÓN TÉCNICA
+# - Crea un gráfico de líneas que muestre la evolución del ROI promedio por año.
+# - Genera un mapa de calor (heatmap) que relacione 'Industry' con 'AI_Maturity_Score'.
+
+# NOTA: El código debe ser modular, eficiente y estar documentado. 
+# Espero el reporte y el script .py para revisión al final del día.
