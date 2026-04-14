@@ -1,8 +1,3 @@
-"""
-SOLICITUD DE ANÁLISIS: Adopción de IA en Fortune 500 (2020-2025)
-ESTADO: Urgente
-RECEPTOR: Desarrollador / Analista de Datos
-"""
 
 # TAREA 1: LIMPIEZA Y CONSISTENCIA
 # - Carga el dataset 'ai-adoption-fortune500-synthetic-dataset-2020-2025.csv'.
@@ -23,5 +18,3 @@ RECEPTOR: Desarrollador / Analista de Datos
 # - Crea un gráfico de líneas que muestre la evolución del ROI promedio por año.
 # - Genera un mapa de calor (heatmap) que relacione 'Industry' con 'AI_Maturity_Score'.
 
-# NOTA: El código debe ser modular, eficiente y estar documentado. 
-# Espero el reporte y el script .py para revisión al final del día.
